@@ -8,9 +8,9 @@ import Soda from "./Soda";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ''}>
       <Switch>
-        <Route path="/" exact>
+        <Route path="/" exact >
           <VendingMachine />
         </Route>
         <Route path="/soda" exact>
