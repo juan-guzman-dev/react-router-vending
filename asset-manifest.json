@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-router-vending/static/css/main.6b588c60.chunk.css",
+    "main.js": "/react-router-vending/static/js/main.3e7448fc.chunk.js",
+    "main.js.map": "/react-router-vending/static/js/main.3e7448fc.chunk.js.map",
+    "runtime-main.js": "/react-router-vending/static/js/runtime-main.6bd7d7a8.js",
+    "runtime-main.js.map": "/react-router-vending/static/js/runtime-main.6bd7d7a8.js.map",
+    "static/js/2.cb4b2b0a.chunk.js": "/react-router-vending/static/js/2.cb4b2b0a.chunk.js",
+    "static/js/2.cb4b2b0a.chunk.js.map": "/react-router-vending/static/js/2.cb4b2b0a.chunk.js.map",
+    "static/js/3.e584c86e.chunk.js": "/react-router-vending/static/js/3.e584c86e.chunk.js",
+    "static/js/3.e584c86e.chunk.js.map": "/react-router-vending/static/js/3.e584c86e.chunk.js.map",
+    "index.html": "/react-router-vending/index.html",
+    "static/css/main.6b588c60.chunk.css.map": "/react-router-vending/static/css/main.6b588c60.chunk.css.map",
+    "static/js/2.cb4b2b0a.chunk.js.LICENSE.txt": "/react-router-vending/static/js/2.cb4b2b0a.chunk.js.LICENSE.txt",
+    "static/media/Chips.c7e44957.png": "/react-router-vending/static/media/Chips.c7e44957.png",
+    "static/media/Soda.8db7d5c9.png": "/react-router-vending/static/media/Soda.8db7d5c9.png",
+    "static/media/VendingMachine.ac92bb0d.png": "/react-router-vending/static/media/VendingMachine.ac92bb0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bd7d7a8.js",
+    "static/js/2.cb4b2b0a.chunk.js",
+    "static/css/main.6b588c60.chunk.css",
+    "static/js/main.3e7448fc.chunk.js"
+  ]
+}
